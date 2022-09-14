@@ -4,6 +4,7 @@ un blog increible
 ## Vamos a ver:
 * Git cherry-pick
 * Incluye ejemplos
+* Diponible para todos
 
 
 ### Features
