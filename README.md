@@ -1,5 +1,9 @@
 # hyperblog
 un blog increible
+
+## Vamos a ver:
+* Git cherry-pick
+
 ### Features
 
 - Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown);
