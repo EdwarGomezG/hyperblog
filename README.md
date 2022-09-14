@@ -3,6 +3,8 @@ un blog increible
 
 ## Vamos a ver:
 * Git cherry-pick
+* Incluye ejemplos
+
 
 ### Features
 
